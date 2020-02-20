@@ -1,0 +1,174 @@
+﻿{
+   "ContextClassName": "CuzdantestContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "codegeneration.trackable.example",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.__EFMigrationsHistory"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Account"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Approval"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Bank"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.BankAccounts"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.BankAccountTransactions"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.BlockStatusHistory"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Commission"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.CurrencyType"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.DeviceSetting"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.FraudRule"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.FraudRuleTransection"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.FrequentlyUsingAccounts"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Invoice"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.InvoiceCorporation"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.InvoiceSektor"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.LoadMoneyRequest"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Log"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Mail"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Menu"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.MobileDeviceLog"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.MoneyWithdrawRequest"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Notifications"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Person"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Receipt"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Report"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.RoleClaims"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Roles"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.ServiceLog"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Sms"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Transaction"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.TransactionChanel"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.TransactionType"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.UserClaims"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.UserLogins"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.UserRoles"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.Users"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "public.UserTokens"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": true,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

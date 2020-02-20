@@ -1,0 +1,7 @@
+﻿{{#each properties}}
+{{spaces 8}}public {{propertyType}} {{propertyName}} { get; set; }
+{{/each}}
+{{#each foreignProperties}}
+{{spaces 8}}public {{propertyType}} {{propertyName}} {get;set;}
+{{spaces 8}}public {{foreign}} {{foreign}} {get;set;}
+{{/each}}
